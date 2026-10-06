@@ -29,7 +29,7 @@ tutorials get the basics wrong in ways that cost you money. This one doesn't.
 - ❌ Out-of-order event handling
 - ❌ Refunds
 
-Those are the hard parts, and they're in the paid kit: **[→ Razorpay + Next.js Payments Kit](#)**
+Those are the hard parts, and they're in the paid kit: **[→ Razorpay + Next.js Payments Kit](https://rzp.io/rzp/48e1FyMD)**
 
 ---
 
@@ -152,7 +152,7 @@ already written and verified by **49 automated assertions** — including a
 concurrency test where 5 simultaneous webhook deliveries produce exactly one
 fulfilment.
 
-**[Razorpay + Next.js Payments Kit →](https://razorpay-kit.vercel.app)**
+**[Razorpay + Next.js Payments Kit →](https://rzp.io/rzp/48e1FyMD)**
 
 ₹1500 · Razorpay checkout — UPI, cards, netbanking
 
